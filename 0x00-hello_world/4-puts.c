@@ -1,7 +1,10 @@
 #include <stdio.h>
-/* code that prints exactly*/
+/**
+ * program that prints text exactly
+ * followed by new line.
+ */
 int main(void)
 { 
-	puts("programming is like building a multilingual puzzle");
+	puts("programming is like building a multilingual puzzle\n");
 	return (0);
 }
