@@ -9,14 +9,14 @@ int main(void)
 	char charType;
 	int intType;
 	int longintType;
-	int longlongintType;
+	int doubleType;
 	float floatType;
 
 	/* sizeof evaluates the size if variable */
 	printf("size of a char: %zu byte(s)\n", sizeof(charType));
 	printf("size of an int: %zu byte(s)\n", sizeof(intType));
 	printf("size of a long int: %zu byte(s)\n", sizeof(longintType));
-	printf("size of a long long int: %zu byte(s)\n", sizeof(longlongintType));
+	printf("size of a long long int: %zu byte(s)\n", sizeof(doubleType));
 	printf("size of a float: %zu byte(s)\n", sizeof(floatType));
 	return (0);
 }
