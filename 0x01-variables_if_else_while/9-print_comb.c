@@ -5,6 +5,7 @@
  * Description: main prints all possible combinations of single-digit numbers
  * numbers separated by ',' followed by space
  * numbers in ascending order
+ * Return: Always 0 (success)
  */
 int main(void)
 {
