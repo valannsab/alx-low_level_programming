@@ -2,10 +2,11 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - entry point
+ * main - Entry point
  *
- * description: main assigns random number to n each time it is excecuted
- * return: always 0 (sucsess)
+ * Description: main assigns random number to n each time it is excecuted
+ * print whether n is postive or negative
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
