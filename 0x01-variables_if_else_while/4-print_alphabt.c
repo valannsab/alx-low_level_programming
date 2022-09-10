@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * Description: main prints alphabet in lowercase 
+ * Description: main prints alphabet in lowercase
  * followed by new line
  * apart from e and q
  * Return: Always 0 (success)
