@@ -23,7 +23,7 @@ int main(void)
 	{
 	char charType;
 	int intType;
-	long int doubleType;
+	double doubleType;
 	double longdoubleType;
 	float floatType;
 
