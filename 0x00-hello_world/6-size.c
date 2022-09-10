@@ -9,7 +9,7 @@ int main(void)
 	char charType;
 	int intType;
 	int longintType;
-	int doubleType;
+	double doubleType;
 	float floatType;
 
 	/* sizeof evaluates the size if variable */
