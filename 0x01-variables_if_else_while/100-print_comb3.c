@@ -18,18 +18,16 @@ int main(void)
 	{
 		for (digit2 = 0; digit2 < 10; digit2++)
 		{
-		putchar((digit1 % 10) + '0');
-		putchar((digit2 % 10) + '0');
-		
-	if (digit1 == 9 && digit2 == 9)
-		continue;
-		putchar(',');
-		putchar(' ');
+			putchar((digit1 % 10) + '0');
+			putchar((digit2 % 10) + '0');
+
+			if (digit1 == 9 && digit2 == 9)
+				continue;
+			putchar(',');
+			putchar(' ');
 		}
 	}
 
 	putchar('\n');
 	return (0);
 }
-
-
