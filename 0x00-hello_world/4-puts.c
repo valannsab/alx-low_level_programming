@@ -1,11 +1,8 @@
 #include <stdio.h>
 /**
- *  main - print text
+ *  main - Entry point
  *
- *  Description: program that prints text exactly, followed by new line
- *  it is executed.
- * 
- *  return: always 0 (success)
+ *  Return: Always 0 (Success)
  */
 int main(void)
 {
