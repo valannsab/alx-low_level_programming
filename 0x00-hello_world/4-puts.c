@@ -1,7 +1,11 @@
 #include <stdio.h>
 /**
- * Descriprtion: program that prints text exactly
- * followed by new line
+ *  main - print text
+ *
+ *  Description: program that prints text exactly, followed by new line
+ *  it is executed.
+ * 
+ *  return: always 0 (success)
  */
 int main(void)
 {
