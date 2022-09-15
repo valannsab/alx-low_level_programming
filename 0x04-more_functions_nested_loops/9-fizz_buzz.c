@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main -prints number or Fizz
+ * main - Entry point
+ * Description: main prints number or Fizz
  * or Buzz or fizzBuzz
  * Return: 0
  */
