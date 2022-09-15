@@ -4,9 +4,9 @@
  * @c: is the int used in function argument
  * Return: 0
  */
-int _islower(int C)
+int _islower(int ci)
 {
-	if (c >= 'a' && c <= '2')
+	if (c >= 'a' && c <= 'z')
 	{
 		return (1);
 	}
