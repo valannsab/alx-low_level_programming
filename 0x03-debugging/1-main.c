@@ -2,7 +2,7 @@
 
 /**
  * main -  Entry point
- * 
+ *
  * Description: main causes an infinte loop
  * Return: 0
  */
