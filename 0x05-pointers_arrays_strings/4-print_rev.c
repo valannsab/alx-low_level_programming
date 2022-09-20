@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * print_rev: entry point
+ * print_rev - entry point
  * @s: string to reverse
  * Return: nothing
  */
