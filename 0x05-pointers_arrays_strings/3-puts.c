@@ -3,10 +3,11 @@
 
 /**
  * _puts: prints a string
+ * @str: string to print
+ *
  * Description: function that prints a string,
  * followed by a new line, to stdout
- * @str: string
- * Return: no error
+ * Return: no error on success
  */
 
 void _puts(char *str)
